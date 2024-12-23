@@ -18,6 +18,7 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 7. We compile the model to fit the train sets and validation sets.
 
 ## PROGRAM:
+NAME : Baradhan.L REG NO: 212224040045
 ```python
 import matplotlib.pyplot as plt
 import pandas as pd
